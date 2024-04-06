@@ -1,7 +1,7 @@
 
 ##Employee Analysis
 
-In this dashborad we want to show you the employee Analysis as per the  given deta.
+In this dashborad we want to show you the employee Analysis as per the  given data.
 
 
 ## Steps followed 
