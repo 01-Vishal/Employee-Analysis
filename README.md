@@ -1,14 +1,14 @@
 
 ##Employee Analysis
 
-In this dashborad we want to show you the employee Analysis as per the  given data.
-
+Welcome to our dashboard where we provide a comprehensive analysis of employee data. Within this dashboard, we aim to present insightful information derived from the data you've provided, offering valuable insights into your workforce.
 
 ## Steps followed 
 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
-- Step 11 : Ratings Visual was used to represent different ratings mentioned below,
+- Step 3 : After clean the data the close and apply.
+- Step 4 : Then create a different different dashboard as per dataset required. 
 
   (a) Sum of employee by department
 
